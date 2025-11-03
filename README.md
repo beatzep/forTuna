@@ -1,2 +1,2 @@
 # forTuna
-priv. learning project
+private learning project
